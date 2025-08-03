@@ -11,7 +11,7 @@ export default defineConfig({
     }
   },
   plugins: [react()],
-  base: "/portfolio/"
+  base: "/3D_Portfolio/"
 });
 
 
